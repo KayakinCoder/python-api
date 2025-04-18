@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# built env file
+.env
+
+# flask
+instance/
+.webassets-cache
