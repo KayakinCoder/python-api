@@ -13,8 +13,5 @@ COPY --chmod=755 . /app
 WORKDIR /app
 RUN uv sync --frozen --no-cache
 
-# the port the api is running on
-EXPOSE 3000
-
 # Run the application.
 CMD ["./runp.sh"]
