@@ -2,7 +2,7 @@ A very simple python rest api (flask) that I'm using to play around with a few a
 
 ### Local Dev
 
-Run the api in dev mode, on port 8000: \
+Run the api in dev mode, api at http://127.0.0.1:8000/hello: \
 `source rund.sh`
 
 **Test Docker Container Locally**
